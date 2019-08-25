@@ -1,0 +1,14 @@
+*** DOWNLOADING THE DATASET****
+Link: http://www.vo.elte.hu/bitcoin/zipdescription.htm
+
+1.Create a folder
+2.Download  Basic dataset and Computed data and extract all the files to the same directory created above.(Make sure they are not in subfolders)
+
+**RUNNING THE CODE***
+1. Go to creat_80kaddress.py and run the code lines sequentially 
+2. Run create_pairs.py either using an IDE or in a terminal using python create_pairs.py
+3. Run create_features.py either using an IDE or in a terminal using python create_features.py (It would take around 5 hours,since it is a huge dataset)
+4. Run train.py either using an IDE or in a terminal using python train.py
+
+
+*** NOTE ALL THE CODES AND DATASET FILES MUST BE IN THE SAME DIRECTORY *****
